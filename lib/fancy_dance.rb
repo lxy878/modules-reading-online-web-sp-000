@@ -1,1 +1,3 @@
-class Funcy
+module FancyDance
+  
+end
